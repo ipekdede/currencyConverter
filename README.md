@@ -25,13 +25,13 @@ A simple and user-friendly currency converter application built with React and p
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/ipekdede/currencyApp.git
+   git clone https://github.com/ipekdede/currencyConverter.git
 
 
 2. Navigate to the project directory:
 
    ```bash
-   cd currencyApp
+   cd currencyConverter
 
 3. Install the dependencies:
 
@@ -43,7 +43,7 @@ A simple and user-friendly currency converter application built with React and p
    ```bash
    npm run dev
 
-5. Open the app in your browser at http://localhost:3000.
+5. Open the app in your browser at http://localhost:5173
 
 ### Usage
 
